@@ -1,2 +1,0 @@
-# VueReveal
-Created with CodeSandbox
